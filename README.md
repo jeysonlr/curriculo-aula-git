@@ -125,7 +125,7 @@
     <br>
     <div id="inputs" style="display: flex">
         <h3 style="font-weight:bold"> Titulo: </h3>
-        <h4 style="font-size:15px"> &nbsp Certificação Scrum Master.
+        <h4 style="font-size:15px"> &nbsp; Certificação Scrum Master.
         </h4>
     </div>
     <div id="inputs" style="display: flex">
