@@ -173,12 +173,12 @@
     <div id="inputs">
         <h3> GitHub:&nbsp;</h3>
 
-[![Linkedin](https://img.shields.io/badge/Jeyson_Romualdo%20-black?style=flat-square&logo=github&logoColor=white)](https://github.com/jeysonlr)
+[![Github](https://img.shields.io/badge/Jeyson_Romualdo%20-black?style=flat-square&logo=github&logoColor=white)](https://github.com/jeysonlr)
     </div> 
     <div id="inputs">
         <h3> Instagram:&nbsp;</h3>
 
-[![Linkedin](https://img.shields.io/badge/Jeyson_Romualdo%20-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jeysonluiz/)
+[![Instagram](https://img.shields.io/badge/Jeyson_Romualdo%20-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jeysonluiz/)
     </div>    
 </div>
 
