@@ -22,6 +22,25 @@
 
 <br>
 
+<div>
+    <h2> Formação Acadêmica: </h2>
+    <div id="inputs">
+        <h3> Pós graduação: </h3> 
+        <h4> &nbsp Cursando pós graduação em desenvolvimento web pela instituição UniAlfa.</h4> 
+    </div>
+    <div id="inputs">
+        <h3> Período: </h3> 
+        <h4> &nbsp 2021 - 2022</h4> 
+    </div>
+    <div id="inputs">
+        <h3> Graduação: </h3> 
+        <h4> &nbsp Graduado em Análise e desenvolvimento de sistemas pela instituição Anhanguera.</h4> 
+    </div>
+    <div id="inputs">
+        <h3> Período: </h3> 
+        <h4> &nbsp 2018 - 2021</h4> 
+    </div>
+</div>
 
 
 <style>
