@@ -138,7 +138,17 @@
         <h3> Período: </h3>
         <h4> &nbsp Junho 2020</h4>
     </div>
+</div>
 
+<br><br>
+
+<div>
+    <h2>Conhecimentos:</h2>
+    <div id="inputs">
+        <h3> Descrição: </h3>
+        <h4> &nbsp Trabalho atualmente atendendo as metodologias ágeis, Scrum, e com banco de dados PostgreSql e MySql, utilizando as liguagens PHP, Typescript, Javascript, com foco no desenvolvimento backend, utilizo também Docker, GitLab, Git e jenkins. 
+        </h4>
+    </div>
 </div>
 
 <style>
