@@ -20,7 +20,7 @@
     </div>
 </div>
 
-<br>
+<br><br>
 
 <div>
     <h2> Formação Acadêmica: </h2>
@@ -42,6 +42,15 @@
     </div>
 </div>
 
+<br><br>
+
+<div>
+    <h2>Projetos pessoais:</h2>
+    <div id="inputs">
+        <h3> Descrição: </h3> 
+        <h4> &nbsp No momento atual me encontro na construção de uma horta no meu próprio quintal.</h4> 
+    </div>
+</div>
 
 <style>
 h4 {
